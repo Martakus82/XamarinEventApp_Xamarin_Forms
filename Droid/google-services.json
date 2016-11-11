@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "782304732949",
+    "firebase_url": "https://xamarinevent.firebaseio.com",
+    "project_id": "xamarinevent",
+    "storage_bucket": "xamarinevent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782304732949:android:9774f4c45bd49a6a",
+        "android_client_info": {
+          "package_name": "com.xamarin.sample.XamarinEventApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782304732949-3553ql2bcrrc9man4c2f9un9e63t8jf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqMaadwOgd5dFRkUwMjScLGr7YJ_hLDPI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
